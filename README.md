@@ -79,7 +79,7 @@ https://drive.google.com/file/d/17LY2aN8OiH6f0ebwlCW4armlsfmVnaZD/view?usp=shari
 
 
 ### input image2
- <img src="https://github.com/leeseomin/arte3/blob/main/s/seed0399.png" width="500">
+ <img src="https://github.com/leeseomin/arte10/blob/main/s/egon.png" width="500">
 
 ### output image2
  <img src="https://github.com/leeseomin/arte10/blob/main/out/eg1.png" width="2000">
