@@ -82,10 +82,19 @@ https://drive.google.com/file/d/17LY2aN8OiH6f0ebwlCW4armlsfmVnaZD/view?usp=shari
  <img src="https://github.com/leeseomin/arte3/blob/main/s/seed0399.png" width="500">
 
 ### output image2
+ <img src="https://github.com/leeseomin/arte10/blob/main/out/eg1.png" width="2000">
+ <img src="https://github.com/leeseomin/arte10/blob/main/out/eg2.png" width="2000">
+ <img src="https://github.com/leeseomin/arte10/blob/main/out/eg3.png" width="2000">
+ <img src="https://github.com/leeseomin/arte10/blob/main/out/eg4.png" width="2000">
+
+
+### input image3
+ <img src="https://github.com/leeseomin/arte3/blob/main/s/seed0399.png" width="500">
+
+### output image3
  <img src="https://github.com/leeseomin/arte10/blob/main/out/ca1.png" width="2000">
  <img src="https://github.com/leeseomin/arte10/blob/main/out/ca2.png" width="2000">
  <img src="https://github.com/leeseomin/arte10/blob/main/out/ca3.png" width="2000">
- <img src="https://github.com/leeseomin/arte10/blob/main/out/ca4.png" width="2000">
 
 
  
