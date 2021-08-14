@@ -97,7 +97,15 @@ https://drive.google.com/file/d/17LY2aN8OiH6f0ebwlCW4armlsfmVnaZD/view?usp=shari
  <img src="https://github.com/leeseomin/arte10/blob/main/out/ca3.png" width="2000">
 
 
- 
+ ### input image4
+ <img src="https://github.com/leeseomin/arte10/blob/main/s/399.png" width="500">
+
+### output image4
+ <img src="https://github.com/leeseomin/arte10/blob/main/out/3a.png" width="2000">
+ <img src="https://github.com/leeseomin/arte10/blob/main/out/3b.png" width="2000">
+ <img src="https://github.com/leeseomin/arte10/blob/main/out/3c.png" width="2000">
+ <img src="https://github.com/leeseomin/arte10/blob/main/out/3d.png" width="2000">
+
  
  
 ### make animated png result
