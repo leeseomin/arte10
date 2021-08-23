@@ -114,7 +114,7 @@ https://drive.google.com/file/d/17LY2aN8OiH6f0ebwlCW4armlsfmVnaZD/view?usp=shari
  
 ### make animated png result
 ```
-ffmpeg -framerate 1.4 -pattern_type glob -i '*.png' \
+ffmpeg -framerate 0.8 -pattern_type glob -i '*.png' \
   -c:v libx264 out.mp4
   
    
