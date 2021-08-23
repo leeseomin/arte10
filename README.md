@@ -2,9 +2,12 @@
 
  <img src="https://github.com/leeseomin/arte10/blob/main/out/mo1.png" width="2000">
  
-### NFT ARTWORK LINK BY arte10
+### NFT ARTWORK created BY arte10
 
 https://rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:1199347?tab=details
+
+
+https://rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:1215488?tab=details
 
 ### Dependency install on ubuntu 20.04 
 
