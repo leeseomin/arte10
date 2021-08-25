@@ -12,6 +12,9 @@ https://rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:1215488?tab
 
 https://rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:1222953?tab=details
 
+
+https://rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:1224088?tab=details
+
 ### Dependency install on ubuntu 20.04 
 
 
